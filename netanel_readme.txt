@@ -1,3 +1,9 @@
+
+# first try the below
+sudo apt install rtl8812au-dkms
+# only if still not working, only then continue building your own...
+
+
 #Download and build
 cd /tmp
 git clone https://github.com/gnetanel/rtl8812au.git gnab_rtl8812au
